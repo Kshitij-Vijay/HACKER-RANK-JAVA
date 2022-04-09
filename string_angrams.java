@@ -8,6 +8,7 @@ It's a hacker rank problem one cool feature that I may have invented in this pro
 > reusability of the same space
 */
 
+// I am an aliphatic chain substitute.
 import java.util.Scanner;
 
 public class string_angrams {
