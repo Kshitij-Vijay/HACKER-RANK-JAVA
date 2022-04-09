@@ -1,8 +1,8 @@
 /* 
 This is a program that just calculates the total frequency of a character in a word.
-It then evaluates if the frezuency of each letter is the same. Then only the string is said to be an anagram.
-Its a hacker rank problem one cool feature that I may have invented in this program is the double shortening.ie. I increase the charAt insex and also at the same time decrease the length of string. many features and advanteges of this technique are : 
-> faster execution
+It then evaluates if the frequency of each letter is the same. Then only the string is said to be an anagram.
+It's a hacker rank problem one cool feature that I may have invented in this program is the double shortening. ie. I increase the charAt index and also at the same time decrease the length of the string. many features and advantages of this technique are : 
+> faster executiona
 > less space consumption
 > complex but with a ton of abstraction
 > reusability of the same space
