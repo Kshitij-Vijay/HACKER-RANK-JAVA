@@ -5,7 +5,8 @@ public class subarrays {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-
+        ma_solve();
+        hackersolve();
     }
 
     public static void ma_solve() {
